@@ -1,0 +1,1 @@
+const previousOperationText = document.querySelector('previous-opera')
